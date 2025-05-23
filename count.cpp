@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//sd
+
 void countToTen();
 
 int main()
